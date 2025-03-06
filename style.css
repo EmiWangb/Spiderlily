@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 .barrio-regular {
     font-family: "Barrio", system-ui;
     font-weight: 400;
