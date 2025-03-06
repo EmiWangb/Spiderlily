@@ -150,11 +150,13 @@ h7 {
 
 #videoal video {
     margin: 30px 0px 0px 20px;
+    max-width: 100%;
 }
 
 #videoal {
     margin: 50px 20px 10px 20px
     width: 440px;
+   
 }
 
 .h8 {
@@ -193,3 +195,4 @@ h7 {
   
     
 }
+
